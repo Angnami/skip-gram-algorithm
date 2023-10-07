@@ -1,0 +1,1 @@
+# Implémentation bout à bout de l'algorithme skip-gram avec TensorFlow 2
