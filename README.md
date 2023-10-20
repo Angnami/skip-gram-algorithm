@@ -3,4 +3,6 @@ Ce dépôt contient une implémentation de bout en bout de l'algorithme skip-gra
 
 La représentation numérique des mots étant une étape indispensable dans les taches du traitement automatique des langues, bien comprendre le leur fonctionnement est nécessaire si l'on aspire à être un expert NLP. Ce travail est un bon point de départ car il permet de bien comprendre le fonctionnement théorique et la mise en oeuvre d'un des algorithmes les plus performants du word embedding à savoir le skip-gram. La compréhension de l'algorithme skip-gram facilite celle du Continuous Bag of Words (CBOW) et des techniques plus avancées comme Glove et ELMO.  
 
-Pour entrainer l'algorithme skip-gram, nous utilisons des données provenant du site  http://mlg.ucd.ie/datasets/bbc.html. Ces données se composent de 2 225 documents de la BBC correspondant à des articles dans cinq domaines d'actualité (affaires, divertissement, politique, sport, technologie) de 2004 à 2005.
+Pour entrainer l'algorithme skip-gram, nous utilisons des données provenant du site  http://mlg.ucd.ie/datasets/bbc.html. Ces données se composent de 2 225 documents de la BBC correspondant à des articles dans cinq domaines d'actualité (affaires, divertissement, politique, sport, technologie) de 2004 à 2005.  
+
+Ce travail se base profondément sur le livre **Natural Language Processing with TensorFlow, Second Edition** de Thushan Ganegedara et de la documentation officielle de TensorFlow. 
